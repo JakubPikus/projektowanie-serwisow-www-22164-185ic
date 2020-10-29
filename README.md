@@ -25,7 +25,7 @@ używa on pliku podrecznik.css</p>
 
 
 <p>Wszystkie zdjęcia, które pojawiają się na stronie znajdują się w folderze "img"<br>
-zdjęcia użyte do zaprezentowania działania strony znajdują się w folderze "zrzuty"</p>
+zdjęcia użyte do zaprezentowania działania stron znajdują się w folderze "zrzuty"</p>
 
 
 
