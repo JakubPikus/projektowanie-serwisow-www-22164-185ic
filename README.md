@@ -39,7 +39,8 @@ zdjęcia użyte do zaprezentowania działania strony znajdują się w folderze "
 
 <img src="zrzuty/index.png" alt="index"  style="float: left;" />
 
-
+<p>Na stronie głównej mamy podzieloną sekcję na konkretne zadanie laboratoryjne, jak i pomocne materiały do ich realizacji.<br>
+Można również szybko napisać mail'a do autora strony przez kliknięcie koperty w górnym, lewym rogu stronu.</p>
 
 
 
@@ -47,6 +48,7 @@ zdjęcia użyte do zaprezentowania działania strony znajdują się w folderze "
 
 <img src="zrzuty/list.png" alt="list"  style="float: left;" />
 
+<p>Strona z przykładowym listem do prezesa Narodowego Banku Polskiego.</p>
 
 
 
@@ -54,7 +56,7 @@ zdjęcia użyte do zaprezentowania działania strony znajdują się w folderze "
 
 <img src="zrzuty/podrecznik.png" alt="podrecznik"  style="float: left;" />
 
-
+<p>Strona z przykładową stroną z podręcznika od języka polskiego.</p>
 
 
 
@@ -62,4 +64,4 @@ zdjęcia użyte do zaprezentowania działania strony znajdują się w folderze "
 
 <img src="zrzuty/formularz.png" alt="formularz"  style="float: left;" />
 
-
+<p>Strona z przykładowym formularzem o tematyce gier.</p>
