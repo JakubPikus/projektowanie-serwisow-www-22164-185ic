@@ -1,0 +1,25 @@
+.zad1
+{
+	width: 960px;
+	background-color: #fffff;
+	
+}
+
+.card
+{
+	margin: 20px;
+	
+}
+
+.naglowek{
+	
+	height: 2000px;
+}
+
+#z15{
+    position:absolute;
+    top:10px;
+    left:10px;
+}
+
+
