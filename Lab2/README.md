@@ -191,7 +191,7 @@ pliki związane z poprzednimi laboratoriami umieszczone zostały w folderze "sta
 
 <img src="zrzuty/19znikacz.png" alt="znikacz"  style="float: left;" />
 
-<p>Wyłącza przycisk po kliknięciu w niego.</p>  
+<p>Znika odpowiedni przycisk po kliknięciu w niego.</p>  
 
 
 
