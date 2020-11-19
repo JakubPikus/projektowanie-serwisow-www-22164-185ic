@@ -47,7 +47,7 @@ pliki związane z poprzednimi laboratoriami umieszczone zostały w folderze "sta
 
 <img src="zrzuty/3tlo.png" alt="formularz"  style="float: left;" />
 
-<p>Strona z przykładowym formularzem o tematyce gier.</p>
+<p>Losuje nowy kolor dla tła strony..</p>
 
 
 
