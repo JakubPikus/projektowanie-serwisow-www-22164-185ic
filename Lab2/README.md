@@ -124,7 +124,7 @@ pliki związane z poprzednimi laboratoriami umieszczone zostały w folderze "sta
 
 # Wyśrodkowanie treści
 
-<img src="zrzuty/13srodek.png" alt="ramki"  style="float: left;" />
+<img src="zrzuty/13srodek.png" alt="srodkowanie"  style="float: left;" />
 
 <p>Efektem jest wyśrodkowanie tekstu w ramkach .</p>
 
@@ -133,7 +133,7 @@ pliki związane z poprzednimi laboratoriami umieszczone zostały w folderze "sta
 
 # Wyłączanie buttonów na navbarze
 
-<img src="zrzuty/14off.png" alt="ramki"  style="float: left;" />
+<img src="zrzuty/14off.png" alt="offbuttons"  style="float: left;" />
 
 <p>Dezaktywuje wszystkie buttony z paska nawigacyjnego.</p>
 
@@ -143,15 +143,15 @@ pliki związane z poprzednimi laboratoriami umieszczone zostały w folderze "sta
 
 # Sprinter
 
-<img src="zrzuty/15sprinter.png" alt="ramki"  style="float: left;" />
+<img src="zrzuty/15sprinter.png" alt="srinter"  style="float: left;" />
 
-<p>Następuje przesunięcie przycisku po jego wciśnięciu.</p>
+<p>Następuje przesunięcie przycisku po jego kliknięciu.</p>
 
 
 
 # Przeładowanie strony
 
-<img src="zrzuty/index.png" alt="index"  style="float: left;" />
+<img src="zrzuty/index.png" alt="przeladowanie"  style="float: left;" />
 
 <p>Wszystkie zmienione elementy wracają do formy w punkcie początkowym.</p>
 
@@ -161,33 +161,37 @@ pliki związane z poprzednimi laboratoriami umieszczone zostały w folderze "sta
 
 
 
-
 # Zmiana czcionki
 
-<img src="zrzuty/16czcionka.png" alt="ramki"  style="float: left;" />
+<img src="zrzuty/16czcionka.png" alt="innaczcionka"  style="float: left;" />
 
-<p>Następuje zmiany czcionki na .</p>
-
-
+<p>Następuje zmiana czcionki na "Montserrat".</p> 
 
 
 
-# Zmiana czcionki
-
-<img src="zrzuty/16czcionka.png" alt="ramki"  style="float: left;" />
-
-<p>Następuje zmiany czcionki na .</p>
 
 
+# Klikacz
 
-# Wyłączanie buttonów na navbarze
+<img src="zrzuty/17klikacz.png" alt="klikacz"  style="float: left;" />
 
-<img src="zrzuty/15off.png" alt="ramki"  style="float: left;" />
-
-<p>Dezaktywuje wszystkie buttony z paska nawigacyjnego.</p>  Montserrat
+<p>Wyświetla przycisk wraz ze standardowym licznikiem kliknięć w niego.</p>
 
 
 
+# Ciemny motyw
+
+<img src="zrzuty/18ciemnymotyw.png" alt="ciemnymotyw"  style="float: left;" />
+
+<p>Zmienia motyw na stronie na ciemny.</p>  
+
+
+
+# Znikacz
+
+<img src="zrzuty/19znikacz.png" alt="znikacz"  style="float: left;" />
+
+<p>Wyłącza przycisk po kliknięciu w niego.</p>  
 
 
 
