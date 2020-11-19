@@ -23,8 +23,7 @@ pliki związane z poprzednimi laboratoriami umieszczone zostały w folderze "sta
 
 <img src="zrzuty/index.png" alt="index"  style="float: left;" />
 
-<p>Na stronie głównej mamy podzieloną sekcję na konkretne zadanie laboratoryjne, jak i pomocne materiały do ich realizacji.<br>
-Można również szybko napisać mail'a do autora strony przez kliknięcie koperty w górnym, lewym rogu stronu.</p>
+<p>Na stronie głównej mamy podzieloną sekcję na konkretne zadanie laboratoryjne. Zadania z pierwszych zajęć laboratoryjnych pozostały w niezmiennej formie w odpowiedniej karcie. Wszystkie skrypty</p>
 
 
 
