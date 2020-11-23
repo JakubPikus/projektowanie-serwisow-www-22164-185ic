@@ -38,13 +38,9 @@ function zwracanie(n) {
 	return answer;
 }
 
-
-
+<br>
 <img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
-
-
-
-
+<br>
 <p>EventListener - click</p>
 <br><br>
 
