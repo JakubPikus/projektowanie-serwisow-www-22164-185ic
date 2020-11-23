@@ -29,8 +29,9 @@ Zad 1.
 Napisz funkcję, która przyjmie jeden parametr - dowolny tekst.
 
 Funkcja niech ZWRACA tekst Liczba liter: .... gdzie .... to liczba liter tekstu. Wynik jej użycia wypisz w konsoli za pomocą console.info()
+<br>
 
-{
+
 function zwracanie(n) {
 
 	var answer = "Liczba liter: " + n.value.length;
@@ -38,7 +39,7 @@ function zwracanie(n) {
 	console.log(answer);
 	return answer;
 }
-}
+
 
 //
 <img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
@@ -68,10 +69,11 @@ function sumowanieTablicy(tablica) {
 <img src="zrzuty/zad2.png" alt="zad2"  style="float: left;" />
 
 
-//<!-- Zad 3 -->
-//<!-- Napisz funkcję, która przyjmie dowolny tekst. Funkcja niech zwraca tekst, który ma zmiksowana wielkość liter np: output -> AlA Ma kOtA     
+Zad 3.
 
-//Dla ułatwienia spacje liczmy jako literę. -->
+Napisz funkcję, która przyjmie dowolny tekst. Funkcja niech zwraca tekst, który ma zmiksowana wielkość liter np: output -> AlA Ma kOtA     
+
+Dla ułatwienia spacje liczmy jako literę. -->
 
 
 function duzeLitery(w){
@@ -88,6 +90,9 @@ function duzeLitery(w){
 	
 	return gotowe;
 }
+
+
+<img src="zrzuty/zad3.png" alt="zad3"  style="float: left;" />
 
 //<!-- Zad 4 -->
 //<!-- Napisz funkcje, która będzie wymagać 2 atrybutów. Funkcja niech sprawdza, czy oba atrybuty są liczbami. 
