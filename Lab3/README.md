@@ -39,8 +39,16 @@ function zwracanie(n) {
 }
 
 
-//
+
 <img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+
+
+
+
+<p>EventListener - click</p>
+<br><br>
+
+
 
 
 
