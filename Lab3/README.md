@@ -11,7 +11,7 @@
 
 # index.html
 
-<img src="zrzuty/1.png" alt="index"  style="float: left;" />
+<img src="zrzuty/index.png" alt="index"  style="float: left;" />
 
 <p>Plik index.html został uzupełniony o dodatkową kartę z zadaniami</p>
 
@@ -24,10 +24,11 @@
 <h3>Zadania</h3>
 
 
-//<!-- Zad 1 -->
-//<!-- Napisz funkcję, która przyjmie jeden parametr - dowolny tekst.
+Zad 1.
 
-//Funkcja niech ZWRACA tekst Liczba liter: .... gdzie .... to liczba liter tekstu. Wynik jej użycia wypisz w konsoli za pomocą console.info() -->
+Napisz funkcję, która przyjmie jeden parametr - dowolny tekst.
+
+Funkcja niech ZWRACA tekst Liczba liter: .... gdzie .... to liczba liter tekstu. Wynik jej użycia wypisz w konsoli za pomocą console.info() -->
 
 
 function zwracanie(n) {
@@ -37,12 +38,15 @@ function zwracanie(n) {
 	return answer;
 }
 
+<img src="zrzuty/zad1.png" alt="zad1"  style="float: left;" />
 
 
-//<!-- Zad 2 -->
-//<!-- Napisz funkcje, która zsumuje przekazaną do niej tablicę i zwraca jej sumę. 
 
-//Stwórz dowolną tablicę, a następnie przekaż ją do tej funkcji i wynik wypisz w konsoli.-->
+Zad 2.
+
+Napisz funkcje, która zsumuje przekazaną do niej tablicę i zwraca jej sumę. 
+
+Stwórz dowolną tablicę, a następnie przekaż ją do tej funkcji i wynik wypisz w konsoli.
 
 
 
@@ -56,6 +60,9 @@ function sumowanieTablicy(tablica) {
 	console.log("Zad 2 - " + suma);
 	return suma;
 }
+
+
+<img src="zrzuty/zad2.png" alt="zad2"  style="float: left;" />
 
 
 //<!-- Zad 3 -->
