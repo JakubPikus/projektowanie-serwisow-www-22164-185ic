@@ -134,7 +134,7 @@ function zwracanie(n) {
 <br><br>
 
 
-<h3>Zad 7.</h3>
+<h3>Zad 6.</h3>
 
 <p></p>
 <br>
