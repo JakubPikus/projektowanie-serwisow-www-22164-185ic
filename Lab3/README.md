@@ -161,7 +161,7 @@ Napisz funkcję, która przyjmie 2 atrybuty:<br>
 - znak rozdziału (np. |)<br><br>
 Skorzystaj z odpowiedniej metody, tak aby rozdzielić przekazany do funkcji tekst na części za pomocą przekazanego znaku rozdziału. W wyniku rozdzielenia powinieneś dostać<br> tablicę. Funkcja niech posegreguje tą tablicę alfabetycznie. Następnie funkcja niech połączy tą tablicę w nowy tekst wstawiając między imiona znak wcześniejszego rozdziału.<br> Skorzystaj tutaj z innej odpowiedniej metody js.<br>
 
-input -> "Ania|Marcin|Bartek" output -> "Ania|Bartek|Marcin"<br>
+input -> "Ania|Marcin|Bartek" <br>output -> "Ania|Bartek|Marcin"<br>
 
 Wywołaj tę funkcję przekazując do niej str z początku zadania</p>
 <br>
@@ -184,7 +184,13 @@ function zwracanie(n) {
 
 <h3>Zad 7.</h3>
 
-<p></p>
+<p>Napisz 2 funkcje. Każda z nich niech przyjmuje tablicę imion.<br>
+
+Pierwsza funkcja niech zwraca nową tablicę, w której imiona są zapisane dużymi literami. Druga funkcja niech zwraca nową tablicę, w której imiona mają zmienną wielkość liter.<br>
+
+input -> ["Ania" , "Marcin" , "Bartek" , "Piotr"]<br><br>
+output1 -> ["ANIA" , "MARCIN" , "BARTEK" , "PIOTR"]<br>
+output2 -> ["AnIa" , "MaRcIn" , "BaRtEk" , "PiOtR"]</p>
 <br>
 
 
@@ -205,7 +211,10 @@ function zwracanie(n) {
 
 <h3>Zad 8.</h3>
 
-<p></p>
+<p>Napisz funkcję checkFemale, która sprawdza przekazane do niej imię. <br>Zróbmy proste teoretyczne założenie, że jeżeli imię kończy się literą "a" to jest to żeńskie imię, w przeciwnym wypadku męskie. Funkcja powinna wracać true jeżeli imię jest żeńskie i false jeżeli jest męskie. Przykładowo:<br><br>
+
+checkFemale("Ania") === true<br>
+checkFemale("Marcin") === false</p>
 <br>
 
 
@@ -226,7 +235,21 @@ function zwracanie(n) {
 
 <h3>Zad 9.</h3>
 
-<p></p>
+<p>Napisz funkcję countWomanInTable(arr), do której przekażesz tablicę userów, którą masz poniżej. Funkcja powinna sprawdzić każdego użytkownika w tablicy i zwrócić ile jest kobiet. Wykorzystaj tutaj funkcję z poprzedniego zadania. Jak pobrać imię z usera? Możesz to osiągnąć za pomocą metody split(). Podziel string na 2 części - uzyskasz tablicę 2 elementów. Pierwszy to imię, drugi to nazwisko<br>
+
+const users = [<br>
+    "Ania Nowak",<br>
+    "Piotr Kowalski",<br>
+    "Bartek Kosecki",<br>
+    "Natalia Nowak",<br>
+    "Weronika Piotrowska",<br>
+    "Agata Beatczak",<br>
+    "Tomasz Nowak",<br>
+    "Mateusz Kowalski",<br>
+    "Marcin Kotecki",<br>
+    "Betata Lecka",<br>
+    "Katarzyna Melecka"<br>
+]</p>
 <br>
 
 
