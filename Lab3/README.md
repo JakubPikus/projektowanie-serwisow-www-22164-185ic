@@ -11,6 +11,8 @@
 
 # index.html
 
+<img src="zrzuty/1.png" alt="index"  style="float: left;" />
+
 <p>Plik index.html został uzupełniony o dodatkową kartę z zadaniami</p>
 
 <p>Wszystkie zadania wywoływane są przez EventListener</p>
