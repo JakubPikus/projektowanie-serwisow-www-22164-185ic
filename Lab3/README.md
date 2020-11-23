@@ -45,9 +45,190 @@ function zwracanie(n) {
 <br><br>
 
 
+<h3>Zad 2.</h3>
+
+<p></p>
+<br>
+
+
+function zwracanie(n) {
+
+	var answer = "Liczba liter: " + n.value.length;
+	console.log("Zad 1 - ");
+	console.log(answer);
+	return answer;
+}
+
+<br>
+<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<br>
+<p>EventListener - click</p>
+<br><br>
 
 
 
+
+<h3>Zad 3.</h3>
+
+<p></p>
+<br>
+
+
+function zwracanie(n) {
+
+	var answer = "Liczba liter: " + n.value.length;
+	console.log("Zad 1 - ");
+	console.log(answer);
+	return answer;
+}
+
+<br>
+<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<br>
+<p>EventListener - click</p>
+<br><br>
+
+
+<h3>Zad 4.</h3>
+
+<p></p>
+<br>
+
+
+function zwracanie(n) {
+
+	var answer = "Liczba liter: " + n.value.length;
+	console.log("Zad 1 - ");
+	console.log(answer);
+	return answer;
+}
+
+<br>
+<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<br>
+<p>EventListener - click</p>
+
+
+<br><br>
+
+
+
+<h3>Zad 5.</h3>
+
+<p></p>
+<br>
+
+
+function zwracanie(n) {
+
+	var answer = "Liczba liter: " + n.value.length;
+	console.log("Zad 1 - ");
+	console.log(answer);
+	return answer;
+}
+
+<br>
+<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<br>
+<p>EventListener - click</p>
+<br><br>
+
+
+<h3>Zad 7.</h3>
+
+<p></p>
+<br>
+
+
+function zwracanie(n) {
+
+	var answer = "Liczba liter: " + n.value.length;
+	console.log("Zad 1 - ");
+	console.log(answer);
+	return answer;
+}
+
+<br>
+<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<br>
+<p>EventListener - click</p>
+<br><br>
+
+
+<h3>Zad 7.</h3>
+
+<p></p>
+<br>
+
+
+function zwracanie(n) {
+
+	var answer = "Liczba liter: " + n.value.length;
+	console.log("Zad 1 - ");
+	console.log(answer);
+	return answer;
+}
+
+<br>
+<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<br>
+<p>EventListener - click</p>
+<br><br>
+
+
+<h3>Zad 8.</h3>
+
+<p></p>
+<br>
+
+
+function zwracanie(n) {
+
+	var answer = "Liczba liter: " + n.value.length;
+	console.log("Zad 1 - ");
+	console.log(answer);
+	return answer;
+}
+
+<br>
+<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<br>
+<p>EventListener - click</p>
+<br><br>
+
+
+<h3>Zad 9.</h3>
+
+<p></p>
+<br>
+
+
+function zwracanie(n) {
+
+	var answer = "Liczba liter: " + n.value.length;
+	console.log("Zad 1 - ");
+	console.log(answer);
+	return answer;
+}
+
+<br>
+<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<br>
+<p>EventListener - click</p>
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 Zad 2.
 
 Napisz funkcje, która zsumuje przekazaną do niej tablicę i zwraca jej sumę. 
