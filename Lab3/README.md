@@ -126,7 +126,7 @@ miesiac - np: styczen<br>
 Funkcja ma zwracac:<br>
 
 jezeli miesiac to grudzien, styczen, luty: "Ala jezdzi na sankach"<br>
-jezeli miesiac to marzec, kwiecien, maj: "Ala chodzi po kaluzach"<br><
+jezeli miesiac to marzec, kwiecien, maj: "Ala chodzi po kaluzach"<br>
 jezeli miesiac to czerwiec, lipiec, sierpien: "Ala sie opala"<br>
 jezeli miesiac to wrzesien, pazdziernik, listopad: "Ala zbiera liscie"<br>
 Wywołaj funkcje przekazując do niej zmienne: twoje imię i dowolny miesiąc.<br>
@@ -152,7 +152,18 @@ function zwracanie(n) {
 
 <h3>Zad 6.</h3>
 
-<p></p>
+<p>Mamy przykładowy tekst:<br><br><br>
+
+const str = "Ania|Marcin|Bartek|Piotr|Kuba|Beata|Agnieszka";<br><br>
+Napisz funkcję, która przyjmie 2 atrybuty:<br>
+
+tekst<br>
+znak rozdziału (np. |)<br>
+Skorzystaj z odpowiedniej metody, tak aby rozdzielić przekazany do funkcji tekst na części za pomocą przekazanego znaku rozdziału. W wyniku rozdzielenia powinieneś dostać<br> tablicę. Funkcja niech posegreguje tą tablicę alfabetycznie. Następnie funkcja niech połączy tą tablicę w nowy tekst wstawiając między imiona znak wcześniejszego rozdziału.<br> Skorzystaj tutaj z innej odpowiedniej metody js.<br><br>
+
+input -> "Ania|Marcin|Bartek" output -> "Ania|Bartek|Marcin"<br>
+
+Wywołaj tę funkcję przekazując do niej str z początku zadania</p>
 <br>
 
 
