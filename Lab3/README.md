@@ -329,8 +329,10 @@ function countWomanInTable(arr){
 
 
 
+<h3>10. EventListener - ended</h3>
+<img src="zrzuty/ended.png" alt="ended" style="float: left;" />
 
-
+<p> Następuje wyłączenie playera po zakończeniu piosenki.</p>
 
 
 
