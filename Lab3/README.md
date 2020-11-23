@@ -70,10 +70,10 @@ function zwracanie(n) {
 
 <h3>Zad 3.</h3>
 
-<p>Napisz funkcję, która przyjmie dowolny tekst. Funkcja niech zwraca tekst, który ma zmiksowana wielkość liter np:
+<p>Napisz funkcję, która przyjmie dowolny tekst. Funkcja niech zwraca tekst, który ma zmiksowana wielkość liter np:<br>
 
-input -> Ala ma kota
-output -> AlA Ma kOtA
+input -> Ala ma kota<br>
+output -> AlA Ma kOtA<br>
 Dla ułatwienia spacje liczmy jako literę.</p>
 <br>
 
