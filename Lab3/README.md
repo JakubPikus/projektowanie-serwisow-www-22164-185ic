@@ -66,7 +66,7 @@ function sumowanieTablicy(tablica) {
 <img src="zrzuty/zad2.png" alt="zad2" style="float: left;" />
 <br>
 <p>2. EventListener - keydown<br>3. EventListener - copy</p>
-<img src="zrzuty/copy.png" alt="zad2" style="float: left;" />
+<img src="zrzuty/copy.png" alt="copy" style="float: left;" />
 <br><br>
 
 
@@ -100,7 +100,7 @@ function duzeLitery(w){
 <br>
 <img src="zrzuty/zad3.png" alt="zad3" style="float: left;" />
 <br>
-<p>EventListener - click</p>
+<p>4. EventListener - input<br>5. EventListener - change</p>
 <br><br>
 
 
@@ -124,7 +124,7 @@ function mnozenie(a,b){
 <br>
 <img src="zrzuty/zad4.png" alt="zad4" style="float: left;" />
 <br>
-<p>EventListener - click</p>
+<p>6. EventListener - mousedown</p>
 
 
 <br><br>
@@ -175,7 +175,7 @@ function coRobisz(a,b){
 <br>
 <img src="zrzuty/zad5.png" alt="zad5" style="float: left;" />
 <br>
-<p>EventListener - click</p>
+<p>7. EventListener - contextmenu</p>
 <br><br>
 
 
@@ -207,7 +207,6 @@ function sortowanie(a,b){
 <br>
 <img src="zrzuty/zad6.png" alt="zad6" style="float: left;" />
 <br>
-<p>EventListener - click</p>
 <br><br>
 
 
@@ -255,7 +254,6 @@ function mieszajLitery(tab){
 <br>
 <img src="zrzuty/zad7.png" alt="zad7" style="float: left;" />
 <br>
-<p>EventListener - click</p>
 <br><br>
 
 
@@ -282,7 +280,8 @@ function checkFemale(n){
 <br>
 <img src="zrzuty/zad8.png" alt="zad8" style="float: left;" />
 <br>
-<p>EventListener - click</p>
+<p>8. EventListener - cut</p>
+<img src="zrzuty/cut.png" alt="cut" style="float: left;" />
 <br><br>
 
 
@@ -325,7 +324,7 @@ function countWomanInTable(arr){
 <br>
 <img src="zrzuty/zad9.png" alt="zad9" style="float: left;" />
 <br>
-<p>EventListener - click</p>
+<p> 9. EventListener - keyup</p>
 
 
 
