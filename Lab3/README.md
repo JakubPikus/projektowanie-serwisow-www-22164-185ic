@@ -60,7 +60,7 @@ function zwracanie(n) {
 }
 
 <br>
-<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<img src="zrzuty/zad2.png" alt="zad2" style="float: left;" />
 <br>
 <p>EventListener - click</p>
 <br><br>
@@ -83,7 +83,7 @@ function zwracanie(n) {
 }
 
 <br>
-<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<img src="zrzuty/zad3.png" alt="zad3" style="float: left;" />
 <br>
 <p>EventListener - click</p>
 <br><br>
@@ -104,7 +104,7 @@ function zwracanie(n) {
 }
 
 <br>
-<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<img src="zrzuty/zad4.png" alt="zad4" style="float: left;" />
 <br>
 <p>EventListener - click</p>
 
@@ -128,7 +128,7 @@ function zwracanie(n) {
 }
 
 <br>
-<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<img src="zrzuty/zad5.png" alt="zad5" style="float: left;" />
 <br>
 <p>EventListener - click</p>
 <br><br>
@@ -149,7 +149,7 @@ function zwracanie(n) {
 }
 
 <br>
-<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<img src="zrzuty/zad6.png" alt="zad6" style="float: left;" />
 <br>
 <p>EventListener - click</p>
 <br><br>
@@ -170,7 +170,7 @@ function zwracanie(n) {
 }
 
 <br>
-<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<img src="zrzuty/zad7.png" alt="zad7" style="float: left;" />
 <br>
 <p>EventListener - click</p>
 <br><br>
@@ -191,7 +191,7 @@ function zwracanie(n) {
 }
 
 <br>
-<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<img src="zrzuty/zad8.png" alt="zad8" style="float: left;" />
 <br>
 <p>EventListener - click</p>
 <br><br>
@@ -212,7 +212,7 @@ function zwracanie(n) {
 }
 
 <br>
-<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
+<img src="zrzuty/zad9.png" alt="zad9" style="float: left;" />
 <br>
 <p>EventListener - click</p>
 <br><br>
