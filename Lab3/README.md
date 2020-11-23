@@ -47,7 +47,7 @@ function zwracanie(n) {
 
 <h3>Zad 2.</h3>
 
-<p></p>
+<p>Napisz funkcje, która zsumuje przekazaną do niej tablicę i zwraca jej sumę. Stwórz dowolną tablicę, a następnie przekaż ją do tej funkcji i wynik wypisz w konsoli.</p>
 <br>
 
 
@@ -70,7 +70,11 @@ function zwracanie(n) {
 
 <h3>Zad 3.</h3>
 
-<p></p>
+<p>Napisz funkcję, która przyjmie dowolny tekst. Funkcja niech zwraca tekst, który ma zmiksowana wielkość liter np:
+
+input -> Ala ma kota
+output -> AlA Ma kOtA
+Dla ułatwienia spacje liczmy jako literę.</p>
 <br>
 
 
