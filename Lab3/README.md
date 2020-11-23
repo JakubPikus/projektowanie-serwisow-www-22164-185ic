@@ -38,7 +38,8 @@ function zwracanie(n) {
 	return answer;
 }
 
-<img src="zrzuty/zad1.png" alt="zad1"  style="float: left;" />
+//
+<img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
 
 
 
