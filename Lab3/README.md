@@ -121,14 +121,14 @@ function zwracanie(n) {
 
 <p>Napisz funkcje, która przyjmuje 2 parametry:<br>
 
-imię - np: Ala<br><br><br><br><br><br><br><br>
-miesiac - np: styczen<br><br><br><br><br><br><br>
-Funkcja ma zwracac:<br><br><br><br><br><br>
+imię - np: Ala<br>
+miesiac - np: styczen<br>
+Funkcja ma zwracac:<br>
 
-jezeli miesiac to grudzien, styczen, luty: "Ala jezdzi na sankach"<br><br><br><br><br>
-jezeli miesiac to marzec, kwiecien, maj: "Ala chodzi po kaluzach"<br><br><br><br>
-jezeli miesiac to czerwiec, lipiec, sierpien: "Ala sie opala"<br><br><br>
-jezeli miesiac to wrzesien, pazdziernik, listopad: "Ala zbiera liscie"<br><br>
+jezeli miesiac to grudzien, styczen, luty: "Ala jezdzi na sankach"<br>
+jezeli miesiac to marzec, kwiecien, maj: "Ala chodzi po kaluzach"<br><
+jezeli miesiac to czerwiec, lipiec, sierpien: "Ala sie opala"<br>
+jezeli miesiac to wrzesien, pazdziernik, listopad: "Ala zbiera liscie"<br>
 Wywołaj funkcje przekazując do niej zmienne: twoje imię i dowolny miesiąc.<br>
 
 Dopisz w funkcji zabezpieczenie, które pozwoli wpisać miesiac małymi lub dużymi literami. Jeżeli miesiac jest "innym słowem", funkcja niech zwraca "Ala uczy się JS"</p>
