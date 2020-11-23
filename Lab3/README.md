@@ -154,12 +154,12 @@ function zwracanie(n) {
 
 <p>Mamy przykładowy tekst:<br><br><br>
 
-const str = "Ania|Marcin|Bartek|Piotr|Kuba|Beata|Agnieszka";<br><br>
+const str = "Ania|Marcin|Bartek|Piotr|Kuba|Beata|Agnieszka";<br>
 Napisz funkcję, która przyjmie 2 atrybuty:<br>
 
-tekst<br>
-znak rozdziału (np. |)<br>
-Skorzystaj z odpowiedniej metody, tak aby rozdzielić przekazany do funkcji tekst na części za pomocą przekazanego znaku rozdziału. W wyniku rozdzielenia powinieneś dostać<br> tablicę. Funkcja niech posegreguje tą tablicę alfabetycznie. Następnie funkcja niech połączy tą tablicę w nowy tekst wstawiając między imiona znak wcześniejszego rozdziału.<br> Skorzystaj tutaj z innej odpowiedniej metody js.<br><br>
+- tekst<br>
+- znak rozdziału (np. |)<br><br>
+Skorzystaj z odpowiedniej metody, tak aby rozdzielić przekazany do funkcji tekst na części za pomocą przekazanego znaku rozdziału. W wyniku rozdzielenia powinieneś dostać<br> tablicę. Funkcja niech posegreguje tą tablicę alfabetycznie. Następnie funkcja niech połączy tą tablicę w nowy tekst wstawiając między imiona znak wcześniejszego rozdziału.<br> Skorzystaj tutaj z innej odpowiedniej metody js.<br>
 
 input -> "Ania|Marcin|Bartek" output -> "Ania|Bartek|Marcin"<br>
 
