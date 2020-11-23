@@ -325,7 +325,6 @@ function countWomanInTable(arr){
 <img src="zrzuty/zad9.png" alt="zad9" style="float: left;" />
 <br>
 <p>EventListener - click</p>
-<br><br>
 
 
 
