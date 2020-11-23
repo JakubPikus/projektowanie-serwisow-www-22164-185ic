@@ -41,7 +41,7 @@ function zwracanie(n) {
 <br>
 <img src="zrzuty/zad1.png" alt="zad1" style="float: left;" />
 <br>
-<p>EventListener - click</p>
+<p>1. EventListener - click</p>
 <br><br>
 
 
@@ -65,7 +65,8 @@ function sumowanieTablicy(tablica) {
 <br>
 <img src="zrzuty/zad2.png" alt="zad2" style="float: left;" />
 <br>
-<p>EventListener - click</p>
+<p>2. EventListener - keydown<br>3. EventListener - copy</p>
+<img src="zrzuty/copy.png" alt="zad2" style="float: left;" />
 <br><br>
 
 
