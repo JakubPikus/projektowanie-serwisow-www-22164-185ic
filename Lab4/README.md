@@ -17,6 +17,8 @@
 
 <p>Gra polega na przelatywaniu ptaszka przez luki </p>
 
+<p>Funkcje zostały dokładnie opisane w skrypcie</p>
+
 
 # Działanie gry
 
