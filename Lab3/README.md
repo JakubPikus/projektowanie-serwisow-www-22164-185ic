@@ -9,13 +9,13 @@
 <h3>22164</h3>
 
 
-# Flappy Bird
+# index.html
 
-<img src="zrzuty/gra.png" alt="gra"  style="float: left;" />
+<img src="zrzuty/index.png" alt="index"  style="float: left;" />
 
 <p>Plik index.html został uzupełniony o dodatkową kartę z zadaniami</p>
 
-<p>Gra polega na przelatywaniu ptaszka przez luki </p>
+<p>Wszystkie zadania wywoływane są przez EventListener</p>
 
 
 
