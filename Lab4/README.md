@@ -23,3 +23,12 @@
 # Działanie gry
 
 
+<p>Przeszkoda to 2 divy, 1 generujący się regularnie po całej wysokości ramki, drugi jest narzucony na niego w kolorze białym.
+Animacja ich jest zapisana w pliku style.css. Generowanie kolejnych luk polega na wylosowaniu liczby w dziedzinie <90;201> (minimalna wartość
+to wysokość luki, ponieważ punkt odniesienia leży w górnej krawędzi; najwieksza wartosc to gorna granica ramki).</p>
+  
+<p> 
+
+
+</p>
+
