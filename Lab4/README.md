@@ -36,6 +36,6 @@ do góry. Jeżeli skok nie jest aktywny, model spada o 1 piksel do dołu co 10 m
 1 - jeśli model dotyka górnej/dolnej krawędzi ramki gry -    "(wysokosc>229||wysokosc<55)"<br>
   lub<br>
 2 - (szerokość przeszkody) * górna przeszkoda    lub    (szerokość przeszkody) * dolna przeszkoda<br> 
-  ((przeszkodaZ < 36) && (przeszkodaZ > -14)) && ( (modWys<dziuraW+53)||( modWys>dziuraW+120))<br>kupa
+  ((przeszkodaZ < 36) & (przeszkodaZ > -14)) & ( (modWys<dziuraW+53)||( modWys>dziuraW+120))<br>kupa
   </p>
 
