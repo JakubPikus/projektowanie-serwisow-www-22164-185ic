@@ -35,7 +35,7 @@ do góry. Jeżeli skok nie jest aktywny, model spada o 1 piksel do dołu co 10 m
 <p> Kolizje możemy podzielić na 2 kategorie:<br>
 1 - jeśli model dotyka górnej/dolnej krawędzi ramki gry -    "(wysokosc>229||wysokosc<55)"<br>
   lub<br>
-2 - (szerokość przeszkody) * górna przeszkoda    lub    (szerokość przeszkody) * dolna przeszkoda<br> 
+2 - jeśli model dotyka ->    [(szerokość przeszkody) * górna przeszkoda]    lub    [(szerokość przeszkody) * dolna przeszkoda]<br> 
   </p>
 
 <p>Zapisywany jest najlepszy wynik podczas sesji oraz aktualny wynik.</p>
