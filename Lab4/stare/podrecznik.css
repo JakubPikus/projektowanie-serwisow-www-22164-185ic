@@ -1,0 +1,166 @@
+body
+{
+	background-color: #303030;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	
+}
+
+#container
+{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000000;
+  
+}
+
+
+
+.rectangle
+{
+	width: 960px;
+	height: 78px;
+    color: #ffffff;
+	background-color: #0d0d0d;
+	font-size: 20px;
+	font-family: 'Oxygen', sans-serif;
+}
+
+
+#square
+{
+	margin-top:20px;
+	width: 900px;
+	height: 990px;
+	background-color: #ffffff;
+	
+	
+	
+	
+}
+
+
+
+
+#linia
+{
+	 width: 5px;
+     height: 941px;
+	 background-color: #0d0d0d;
+	 float: right;
+}
+
+
+
+
+
+
+
+
+.wykrz
+{
+	float: left;
+	
+	
+}
+
+.tile1
+{
+ 
+ background-color: #018145;
+ width: 20px;
+ height: 100px;
+ margin-left: 5px;
+ float: left;
+ 
+
+}
+
+.tile2
+{
+
+ background-color: #adffbd;
+ width: 230px;
+ height: 100px;
+ margin-left: 50px;
+ 
+}
+
+.image
+{
+	width: 730;
+	float: left;
+	margin-top: 30px;
+}
+
+.obrazopis
+{
+	margin-left:20px;
+	
+	
+	
+}
+
+#tekst
+{
+	
+float: left;	
+margin: 30px;
+width: 830px;
+}
+
+#info
+{
+ width: 300px;
+ height: 100px;	
+ float: right;
+ margin: 20px;
+	
+}
+
+#odnosnik
+{
+	width: 40px;
+	height: 50px;
+	float: left;
+}
+
+
+
+#tresc
+{
+	margin-left: 70px;
+	
+	
+}
+
+.zad1
+{
+	font-size: 12px;
+	
+}
+
+.cytat
+{
+	
+	font-size: 13px;
+	margin-right: 200px;
+	font-family: 'Dancing Script', cursive;
+	
+	
+}
+
+.numeracja
+{
+	font-size: 13px;
+	float: right;
+	margin-right: 30px;
+	
+}
+
+
+
+
+
+

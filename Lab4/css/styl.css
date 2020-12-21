@@ -1,0 +1,93 @@
+.zad1
+{
+	width: 960px;
+	background-color: #ffffff;
+	
+}
+
+.card
+{
+	margin: 20px;
+	
+}
+
+.naglowek{
+	
+	height: 2000px;
+}
+
+#z15{
+    position:absolute;
+    top:10px;
+    left:10px;
+}
+
+
+#gra
+{
+	width: 250px;
+	height: 199px;
+	border: 1px solid black;
+	overflow: hidden;
+	margin: auto;
+}
+
+
+#przeszkoda
+{
+	width: 40px;
+	height: 200px;
+	background-color: black;
+	position: relative;
+	left: 209px;
+	animation: przeszkoda 2s infinite linear;
+	
+	
+
+}
+
+@keyframes przeszkoda{
+	0%{left: 249px}
+	100%{left: -40px}
+
+}
+
+
+
+
+#dziura
+{
+	width: 40px;
+	height: 88px;
+	background-color: white;
+	position: relative;
+	left: 1003px;
+	top: -90px;
+	animation: przeszkoda 2s infinite linear;
+
+}
+
+
+#postac
+{
+	position: absolute;
+	top: 160px;
+	left: 40px;
+	border-radius: 50%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
