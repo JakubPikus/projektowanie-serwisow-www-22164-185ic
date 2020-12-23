@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  padding-top:4rem;
+}
+
+
+.App-header {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+.przepisy{
+  padding-top:5rem;
+  padding-bottom: 2rem;
+  padding-left:5rem;
+  padding-right:5rem;
+  font-size: 1.1rem;
+  display: inline-block;
+}
+
+.zamowienieInfo{
+  padding-left:2rem;
+  padding-right:2rem;
+  display: inline-block;
+  height: 210px;
+}
+
+
+.imga{
+  width: 200px;
+}
+
+.zamowienieInfo img {
+  transition-duration: 3s;
+  margin: 0 auto;
+  display: block;
+}
+.zamowienieInfo img:hover {
+  transform: scale(1.4);
+  -webkit-transform: scale(1.4);
+  -moz-transform: scale(1.4);
+  z-index: 0;
+}
+
+.zamowienie{
+  display: none;
+  padding-top:2rem;
+  font-size: 1.5rem;
+}
+
+
+
+
+
+
+
