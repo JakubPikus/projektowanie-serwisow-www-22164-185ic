@@ -11,7 +11,7 @@
 
 # Klasa JSON
 
-<img src="zrzuty/1.png" alt="gra"  style="float: left;" />
+<img src="zrzuty/2.png" alt="gra"  style="float: left;" />
 
 
 # Zadania
@@ -59,7 +59,7 @@
 
 # Wyniki
 
-<img src="zrzuty/2.png" alt="wyniki"  style="float: left;" />
+<img src="zrzuty/1.png" alt="wyniki"  style="float: left;" />
 
 
 
