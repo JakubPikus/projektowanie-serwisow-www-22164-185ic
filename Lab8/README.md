@@ -42,33 +42,7 @@
 <img src="zrzuty/6.png" alt="c6"  style="float: left;" />
 <img src="zrzuty/7.png" alt="c7"  style="float: left;" />
 <img src="zrzuty/8.png" alt="c8"  style="float: left;" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="zrzuty/9.png" alt="c9"  style="float: left;" />
 
 
 
