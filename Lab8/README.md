@@ -27,7 +27,7 @@
 <img src="zrzuty/2.png" alt="po"  style="float: left;" />
 
 
-<p>Kalkulator został wzbogacony o liczenie potęgi dowolnego wykładnika, dodatniego jak i ujemnego</p>
+<p>Kalkulator został wzbogacony o komponenty @material-ui oraz liczenie potęgi dowolnego wykładnika, dodatniego jak i ujemnego</p>
 
 <p>Opis został zamieszczony do App.js</p>
 
