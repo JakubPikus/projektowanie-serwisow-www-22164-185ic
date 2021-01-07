@@ -67,9 +67,7 @@ console.log(gra);
 
 
 //Zad2
-
 //task1
-
 
 const posty = fetch('https://jsonplaceholder.typicode.com/posts');
 
@@ -84,7 +82,6 @@ function getPost(response) {
     });
 }
 
-
 getPost(posty).then(response => response.json().then(function(data) {
 		var mnozenie = data[10].id * data[15].id;
         console.log('Zad 2 - Task 1 - Mnożenie wynosi ' + mnozenie);
@@ -93,7 +90,6 @@ getPost(posty).then(response => response.json().then(function(data) {
 .finally(() => console.log('Zad 2 - Task 1 - Done'));
 
 //task2
-
 
 const postyString = fetch('https://jsonplaceholder.typicode.com/posts');
 

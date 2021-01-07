@@ -97,7 +97,6 @@ class WysDania extends React.Component{
   }
 }
 
-
 class ImgDania extends React.Component{
   constructor(props){
     super(props);
