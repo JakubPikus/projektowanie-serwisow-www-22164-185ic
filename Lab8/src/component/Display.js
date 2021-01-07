@@ -1,5 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Card from '@material-ui/core/Card';
+import CardContent from '@material-ui/core/CardContent';
 
 import "./Display.css";
 
@@ -10,9 +12,11 @@ export default class Display extends React.Component {
 
   render() {
     return (
-      <div className="component-display">
+      <Card className="component-display" boxShadow={3}>
+        <CardContent>
         <div>{this.props.value}</div>
-      </div>
+        </CardContent>
+      </Card>
     );
   }
 }

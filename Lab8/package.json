@@ -10,6 +10,7 @@
     "react-scripts": "^3.0.1"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
     "big.js": "^5.2.2",
     "github-fork-ribbon-css": "^0.2.1",
     "react": "^16.8.6",

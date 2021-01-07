@@ -1,8 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
 import "./Button.css";
+import Button from '@material-ui/core/Button';
 
-export default class Button extends React.Component {
+
+import Box from '@material-ui/core/Box';
+
+
+export default class w extends React.Component {
   static propTypes = {
     name: PropTypes.string,
     orange: PropTypes.bool,
@@ -15,16 +20,25 @@ export default class Button extends React.Component {
   };
 
   render() {
-    const className = [
-      "component-button",
-      this.props.orange ? "orange" : "",
-      this.props.wide ? "wide" : "",
-    ];
+    
 
     return (
-      <div className={className.join(" ").trim()}>
-        <button onClick={this.handleClick}>{this.props.name}</button>
-      </div>
+      
+    
+    
+    <Box component="span" m={1}>
+     
+
+          <Button onClick={this.handleClick}>{this.props.name}</Button>
+     
+  
+    </Box>
+      
+
     );
   }
 }
+
+
+
+
