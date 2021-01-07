@@ -17,6 +17,19 @@
 # Podstrony
 
 
+<p>Dzięki użyciom komponentów link, Switch oraz Route nie jesteśmy zmuszani do ciągłego ładowania stron przy zmianie adresu. 
+<br>Wszystkie dane zostają pobrane przy pierwszym wejściu na główną stronę. 'Link' został umieszczony w buttonach w navbarze, który przekierowywuje
+<br> użytkownika pod konkretny link, opisany w "Route". Aby aplikacja wiedziała, o naszym zamiarze zmiany podstrony, nie można zapomnieć o "Switch", który
+<br> wyszukuje nasze podstrony, podpięte pod "Route". </p>
+
+
+
+
+
+
+
+
+
 <h3>Strona główna</h3>
 
 
